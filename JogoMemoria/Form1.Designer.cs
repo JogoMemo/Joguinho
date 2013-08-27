@@ -110,6 +110,7 @@
             this.button19.Size = new System.Drawing.Size(92, 64);
             this.button19.TabIndex = 27;
             this.button19.UseVisualStyleBackColor = false;
+            this.button19.Click += new System.EventHandler(this.button19_Click);
             // 
             // button20
             // 
@@ -121,6 +122,7 @@
             this.button20.Size = new System.Drawing.Size(92, 64);
             this.button20.TabIndex = 26;
             this.button20.UseVisualStyleBackColor = false;
+            this.button20.Click += new System.EventHandler(this.button20_Click);
             // 
             // button21
             // 
@@ -132,6 +134,7 @@
             this.button21.Size = new System.Drawing.Size(92, 64);
             this.button21.TabIndex = 25;
             this.button21.UseVisualStyleBackColor = false;
+            this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
             // button22
             // 
@@ -143,6 +146,7 @@
             this.button22.Size = new System.Drawing.Size(92, 64);
             this.button22.TabIndex = 24;
             this.button22.UseVisualStyleBackColor = false;
+            this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
             // button23
             // 
@@ -154,6 +158,7 @@
             this.button23.Size = new System.Drawing.Size(92, 64);
             this.button23.TabIndex = 23;
             this.button23.UseVisualStyleBackColor = false;
+            this.button23.Click += new System.EventHandler(this.button23_Click);
             // 
             // button14
             // 
@@ -198,6 +203,7 @@
             this.button17.Size = new System.Drawing.Size(92, 64);
             this.button17.TabIndex = 19;
             this.button17.UseVisualStyleBackColor = false;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button18
             // 
@@ -253,6 +259,7 @@
             this.button12.Size = new System.Drawing.Size(92, 64);
             this.button12.TabIndex = 14;
             this.button12.UseVisualStyleBackColor = false;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button13
             // 
@@ -264,28 +271,31 @@
             this.button13.Size = new System.Drawing.Size(92, 64);
             this.button13.TabIndex = 13;
             this.button13.UseVisualStyleBackColor = false;
+            this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button8
             // 
             this.button8.BackColor = System.Drawing.Color.OrangeRed;
-            this.button8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button8.BackgroundImage")));
+            this.button8.BackgroundImage = global::JogoMemoria.Properties.Resources.plano;
             this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button8.Location = new System.Drawing.Point(118, 80);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(92, 64);
             this.button8.TabIndex = 12;
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click_1);
             // 
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.OrangeRed;
             this.button7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button7.BackgroundImage")));
             this.button7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button7.Location = new System.Drawing.Point(222, 80);
+            this.button7.Location = new System.Drawing.Point(223, 80);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(92, 64);
             this.button7.TabIndex = 11;
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 
@@ -297,6 +307,7 @@
             this.button6.Size = new System.Drawing.Size(92, 64);
             this.button6.TabIndex = 10;
             this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button5
             // 
@@ -308,11 +319,12 @@
             this.button5.Size = new System.Drawing.Size(92, 64);
             this.button5.TabIndex = 9;
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.OrangeRed;
-            this.button4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button4.BackgroundImage")));
+            this.button4.BackgroundImage = global::JogoMemoria.Properties.Resources.plano;
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button4.Location = new System.Drawing.Point(18, 80);
             this.button4.Name = "button4";
