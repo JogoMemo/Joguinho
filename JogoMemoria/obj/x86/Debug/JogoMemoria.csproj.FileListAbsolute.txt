@@ -7,3 +7,12 @@ C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\Gen
 C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.exe
 C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\JogoMemoria.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\JogoMemoria.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\bin\Debug\JogoMemoria.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\bin\Debug\JogoMemoria.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\JogoMemoria.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\JogoMemoria.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\JogoMemoria\JogoMemoria\obj\x86\Debug\GenerateResource.write.1.tlog

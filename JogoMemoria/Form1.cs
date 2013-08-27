@@ -23,7 +23,7 @@ namespace JogoMemoria
 
         private void button4_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -33,7 +33,7 @@ namespace JogoMemoria
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            button4.Visible = false;
         }
     }
 }
