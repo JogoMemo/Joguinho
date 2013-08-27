@@ -33,7 +33,7 @@ namespace JogoMemoria
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button4.Visible = false;
+           
         }
     }
 }
