@@ -15,5 +15,10 @@ namespace JogoMemoria
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
