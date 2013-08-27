@@ -103,9 +103,9 @@
             // 
             this.button1.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Blue;
-            this.button1.Location = new System.Drawing.Point(7, 13);
+            this.button1.Location = new System.Drawing.Point(7, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(534, 31);
+            this.button1.Size = new System.Drawing.Size(534, 44);
             this.button1.TabIndex = 0;
             this.button1.Text = "Jogo da Memória";
             this.button1.UseVisualStyleBackColor = true;
@@ -197,6 +197,7 @@
             this.button4.TabIndex = 8;
             this.button4.Text = "button4";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -237,6 +238,7 @@
             this.button8.TabIndex = 12;
             this.button8.Text = "button8";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -396,6 +398,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
