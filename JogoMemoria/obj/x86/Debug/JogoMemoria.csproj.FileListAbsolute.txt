@@ -1,0 +1,9 @@
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.Form1.resources
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.exe
+C:\Users\Welliton\Documents\pasta_projeto\Joguinho\JogoMemoria\obj\x86\Debug\JogoMemoria.pdb
