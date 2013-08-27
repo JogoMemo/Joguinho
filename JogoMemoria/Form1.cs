@@ -21,26 +21,27 @@ namespace JogoMemoria
             int a = 0, b = 0, c = 0, d = 0, e = 0, f = 0, g = 0;
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
             
-            button4.BackgroundImage = Properties.Resources.boxe;
-            
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
            
         }
 
+        //botões com as imagens que alternam no click
+        #region ****botões***
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+            button4.BackgroundImage = Properties.Resources.boxe;
+            
+        }  
+
         private void button8_Click_1(object sender, EventArgs e)
         {
             button8.BackgroundImage = Properties.Resources.footbol;
+            
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -60,12 +61,13 @@ namespace JogoMemoria
 
         private void button13_Click(object sender, EventArgs e)
         {
-            button13.BackgroundImage = Properties.Resources.rugby;
+            button13.BackgroundImage = Properties.Resources.bolosoccer;
         }
 
         private void button23_Click(object sender, EventArgs e)
         {
             button23.BackgroundImage = Properties.Resources.boxe;
+            
         }
 
         private void button19_Click(object sender, EventArgs e)
@@ -95,7 +97,64 @@ namespace JogoMemoria
 
         private void button22_Click(object sender, EventArgs e)
         {
-            button12.BackgroundImage = Properties.Resources.jogadorbas;
+            button22.BackgroundImage = Properties.Resources.jogadorbas;
         }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            button18.BackgroundImage = Properties.Resources.bolavolei;
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            button15.BackgroundImage = Properties.Resources.bolosoccer;
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            button9.BackgroundImage = Properties.Resources.rugby;
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            button11.BackgroundImage = Properties.Resources.bolabask;
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            button14.BackgroundImage = Properties.Resources.bolabask;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            button10.BackgroundImage = Properties.Resources.images;
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            button16.BackgroundImage = Properties.Resources.images;
+        }
+
+        #endregion
+
+
+        //metodo para a jogada
+
+        //public void Jogada()
+        //{
+        //    if (BackgroundImage != BackgroundImage)
+        //        BackgroundImage = Properties.Resources.plano;
+           
+
+                
+        
+        //}
+
+
+
+
+
+
+
     }
 }
