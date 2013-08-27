@@ -121,4 +121,34 @@
   <data name="100_1478" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\100_1478.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bolabask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bolabask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bolavolei" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bolavolei.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bolosoccer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bolosoccer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="footbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\footbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jogadorbas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jogadorbas.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="judo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\judo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nado.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rugby" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rugby.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

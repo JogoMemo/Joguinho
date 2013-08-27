@@ -66,5 +66,75 @@ namespace JogoMemoria.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        internal static System.Drawing.Bitmap bolabask {
+            get {
+                object obj = ResourceManager.GetObject("bolabask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap bolavolei {
+            get {
+                object obj = ResourceManager.GetObject("bolavolei", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap bolosoccer {
+            get {
+                object obj = ResourceManager.GetObject("bolosoccer", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap boxe {
+            get {
+                object obj = ResourceManager.GetObject("boxe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap footbol {
+            get {
+                object obj = ResourceManager.GetObject("footbol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap jogadorbas {
+            get {
+                object obj = ResourceManager.GetObject("jogadorbas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap judo {
+            get {
+                object obj = ResourceManager.GetObject("judo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap nado {
+            get {
+                object obj = ResourceManager.GetObject("nado", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap rugby {
+            get {
+                object obj = ResourceManager.GetObject("rugby", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

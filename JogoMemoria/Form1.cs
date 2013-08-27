@@ -23,7 +23,9 @@ namespace JogoMemoria
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            //button4.BackColor = Color.OrangeRed;
+            button4.Image = Properties.Resources.bolavolei;
+            
         }
 
         private void button8_Click(object sender, EventArgs e)

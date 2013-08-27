@@ -80,6 +80,36 @@
   <ItemGroup>
     <None Include="Resources\100_1478.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bolabask.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bolavolei.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bolosoccer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boxe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\footbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jogadorbas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\judo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rugby.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
